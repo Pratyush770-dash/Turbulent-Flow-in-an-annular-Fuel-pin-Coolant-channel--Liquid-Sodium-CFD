@@ -1,4 +1,4 @@
-# Turbulent-Flow-in-an-annular-Fuel-pin-Coolant-channel--Liquid-Sodium-CFD
+# Turbulent Flow in an Annular Fuel-Pin Coolant Channel — Liquid Sodium CFD
 A CFD study built in ANSYS Fluent, modelling turbulent forced convection through the annular gap between a nuclear fuel pin and its coolant channel — a simplified stand-in for a fast-reactor fuel subassembly — validated against the Seban-Shimazaki liquid-metal correlation.
 
 ## Table of Contents
